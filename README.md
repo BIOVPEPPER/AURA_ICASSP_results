@@ -1,6 +1,6 @@
 # AURA_ICASSP_results
 Unbridged Results
-# MAGNet-ICASSP-results
+# AURA-ICASSP-results
 The full, unabridged results 
 | Model           | Dataset   |   Origin |    N |     SP |    LP |   PK |    HP |    SM |   BS |   DK |   RS |   AMP |   QT |   Echo |   MP3 |    RV |   AAC |   Opus |   SPD |   PCH |    BF |   SPCH |   PHS |   SPAUG |
 |:----------------|:----------|---------:|-----:|-------:|------:|-----:|------:|------:|-----:|-----:|-----:|------:|-----:|-------:|------:|------:|------:|-------:|------:|------:|------:|-------:|------:|--------:|
