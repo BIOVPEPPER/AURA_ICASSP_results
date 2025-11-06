@@ -1,6 +1,6 @@
 # AURA_ICASSP_results
 Unbridged Results
-You are also very welcome to try our audio human test evaluation here: http://36808b4n00.vicp.fun:5000/test, You can put random name in it, and the testcode is TEST2024
+You are also very welcome to try our audio human test evaluation here: https://listen.staging.ofspectrum.com/, You can put random name in it, and the testcode is TEST2024
 # AURA-ICASSP-results
 The full, unabridged results 
 | Model           | Dataset   |   Origin |    N |     SP |    LP |   PK |    HP |    SM |   BS |   DK |   RS |   AMP |   QT |   Echo |   MP3 |    RV |   AAC |   Opus |   SPD |   PCH |    BF |   SPCH |   PHS |   SPAUG |
