@@ -1,6 +1,7 @@
 # AURA_ICASSP_results
 Unbridged Results
 You are also very welcome to try our audio human test evaluation here: https://listen.staging.ofspectrum.com/, You can put random name in it, and the testcode is TEST2024
+Truly inaudible, rememeber to put on your earphone.
 # AURA-ICASSP-results
 The full, unabridged results 
 | Model           | Dataset   |   Origin |    N |     SP |    LP |   PK |    HP |    SM |   BS |   DK |   RS |   AMP |   QT |   Echo |   MP3 |    RV |   AAC |   Opus |   SPD |   PCH |    BF |   SPCH |   PHS |   SPAUG |
